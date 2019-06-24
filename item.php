@@ -22,3 +22,7 @@ if (count($dados) == 1){
 }else{
 	echo "item invalido!";
 }
+
+
+
+?>
